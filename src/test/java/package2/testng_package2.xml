@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG Suite" annotations="Sample" verbose="1" parallel="tests">
+	<test name="TestNG Suite Tests">
+		<classes>
+			<class name="package2.Class1"></class>
+			<class name="package2.Class2"></class>
+			<class name="package2.Class3"></class>
+	
+		</classes>
+	</test>
+</suite> <!-- Suite -->

@@ -1,0 +1,47 @@
+/*       */
+
+
+[RemoteTestNG] detected TestNG version 6.14.2
+beforeSuite_in_CommonClass_in_package2()
+	 beforeTest_in_CommonClass_in_package2()
+	 	 beforeClass_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method1_in_Class1_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 beforeClass_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method2_in_Class2_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 beforeClass_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method3_in_Class3_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method2_in_Class1_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method1_in_Class2_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method2_in_Class3_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method3_in_Class1_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 afterClass_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method3_in_Class2_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 afterClass_in_CommonClass_in_package2()
+	 	 	 beforeMethod_in_CommonClass_in_package2()
+	 	 	 	 method1_in_Class3_in_package2()
+	 	 	 afterMethod_in_CommonClass_in_package2()
+	 	 afterClass_in_CommonClass_in_package2()
+	 afterTest_in_CommonClass_in_package2()
+afterSuite_in_CommonClass_in_package2()
+
+===============================================
+TestNG Suite
+Total tests run: 9, Failures: 1, Skips: 0
+===============================================
+
